@@ -202,3 +202,17 @@ Como parte de mi desarrollo profesional, busco seguir fortaleciendo mis conocimi
 - Ciberseguridad
 
 ---
+
+<p align="center"> <img height="160" src="https://github-readme-stats.vercel.app/api?username=HazaelH&show_icons=true&theme=tokyonight&hide_border=true" /> <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HazaelH&layout=compact&theme=tokyonight&hide_border=true" /> </p> <p align="center"> <img src="https://streak-stats.demolab.com?user=HazaelH&theme=tokyonight&hide_border=true" /> </p>
+
+---
+
+Contacto
+GitHub: https://github.com/HazaelH
+Email: hazaeldev14@gmail.com
+LinkedIn: TU_LINKEDIN
+Portafolio: TU_PORTAFOLIO
+
+---
+
+<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:22c1c3&height=100&section=footer"/> </p> ```
