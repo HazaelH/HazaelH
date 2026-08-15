@@ -32,7 +32,7 @@ Actualmente busco una **oportunidad Junior o de prácticas profesionales** donde
 ## Tecnologías y conocimientos
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=php,laravel,mysql,html,css,js,python,linux,docker,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,mysql,tailwindcss,moodle,linux,docker,git,github,vscode" />
 </p>
 
 ### Desarrollo Web
@@ -40,8 +40,6 @@ Actualmente busco una **oportunidad Junior o de prácticas profesionales** donde
 - PHP
 - Laravel
 - Blade
-- HTML / CSS
-- JavaScript
 - Tailwind CSS
 - APIs REST
 
@@ -58,7 +56,6 @@ Actualmente busco una **oportunidad Junior o de prácticas profesionales** donde
 - Docker
 - Moodle
 - VMware
-- VirtualBox
 - XAMPP
 
 ### Redes
@@ -68,7 +65,6 @@ Actualmente busco una **oportunidad Junior o de prácticas profesionales** donde
 - DHCP
 - VLAN
 - ACL
-- GNS3
 
 ### IoT y Hardware
 
@@ -76,7 +72,8 @@ Actualmente busco una **oportunidad Junior o de prácticas profesionales** donde
 - MQ-2
 - MQ-135
 - DHT11
-- Integración Hardware-API
+- Flutter
+- Integración Hardware-Software
 
 ---
 
@@ -88,18 +85,17 @@ Prototipo IoT desarrollado con ESP32 para monitorear gases y condiciones ambient
 
 **Tecnologías:**
 
-`ESP32` `MQ-2` `MQ-135` `DHT11` `Laravel` `API REST` `MySQL`
+`ESP32` `MQ-2` `MQ-135` `DHT11` `MQTT` `Flutter` `C++` 
 
 **Lo que trabajé:**
 
 - Integración de sensores con ESP32.
 - Lectura y procesamiento de datos.
 - Sistema de alertas mediante LEDs, buzzer y ventilador.
-- Desarrollo de API REST con Laravel.
-- Almacenamiento de lecturas en MySQL.
-- Comunicación entre hardware y backend.
+- Aplicación móvil Flutter con dashboard en tiempo real y gráficos históricos
+- Comunicación MQTT mediante broker local para envío y recepción de datos
 
-[Ver proyecto →](TU_LINK)
+[Ver proyecto →](https://drive.google.com/file/d/18JYspkrySRNL8jnRZEGnF08HjQRhvTRW/view?usp=sharing)
 
 ---
 
@@ -109,7 +105,7 @@ Portal desarrollado para la **Universidad Politécnica del Valle de Toluca** dur
 
 **Tecnologías:**
 
-`Laravel 12` `PHP` `MySQL` `Blade` `Git`
+`Laravel` `PHP` `MySQL` `Blade`
 
 **Lo que trabajé:**
 
@@ -120,7 +116,7 @@ Portal desarrollado para la **Universidad Politécnica del Valle de Toluca** dur
 - Pruebas y correcciones funcionales.
 - Implementación en entorno de producción.
 
-[Ver proyecto →](TU_LINK)
+[Ver proyecto →]([TU_LINK](https://itinews-upvt.com.mx/)
 
 ---
 
@@ -141,7 +137,7 @@ Implementación de un curso propedéutico autogestivo para estudiantes de nuevo 
 - Migración de Moodle desde Docker hacia un entorno de hosting.
 - Pruebas y correcciones posteriores a la migración.
 
-[Ver proyecto →](TU_LINK)
+[Ver proyecto →](https://maestrias.itinews-upvt.com.mx/)
 
 ---
 
@@ -156,12 +152,13 @@ Sistema web desarrollado para apoyar la gestión de un restaurante.
 **Lo que trabajé:**
 
 - Desarrollo de la aplicación con Laravel.
-- Implementación de panel administrativo.
-- Gestión de menú y categorías.
-- Registro y seguimiento de órdenes.
-- Diseño de base de datos relacional.
+- Módulos operativos especializados para Cliente, Mesero, Cocina, Repartidor, Caja y Administrador.
+- Sistema completamente internacionalizado para Español, Inglés y Portugués Brasileño.
+- Panel de control con indicadores clave, gráficas, historial de transacciones y exportación de reportes en PDF y Excel.
+- Seguridad con control de accesos basado en roles y reglas de protección de datos ante la eliminación de productos o usuarios.
+- Diseño de base de datos relacional en MySQL.
 
-[Ver proyecto →](TU_LINK)
+[Ver proyecto →](https://k-hamburguesas.whf.bz/)
 
 ---
 
@@ -202,21 +199,6 @@ Como parte de mi desarrollo profesional, busco seguir fortaleciendo mis conocimi
 - Redes e infraestructura
 - Seguridad de aplicaciones
 - Integración de sistemas
+- Ciberseguridad
 
 ---
-
-## Roadmap profesional
-
-```text
-✓ Ingeniería en Tecnologías de la Información
-✓ Prácticas profesionales
-✓ Servicio social
-✓ Proyectos web
-✓ Proyecto IoT
-✓ Implementación de Moodle
-
-→ Profundizar en desarrollo backend
-→ Mejorar debugging y resolución de problemas
-→ Fortalecer Linux e infraestructura
-→ Mejorar conocimientos de redes
-→ Construir proyectos más completos
