@@ -1,7 +1,27 @@
 <h1 align="center">Hazael Hernández</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=22C1C3&center=true&vCenter=true&size=22&lines=Estudiante+de+TI;Desarrollo+Web+Junior;Infraestructura+y+Redes;IoT+y+Sistemas" />
+  <strong>Estudiante de Ingeniería en Tecnologías de la Información</strong>
+</p>
+
+<p align="center">
+  Desarrollo Web · Infraestructura · Redes · IoT
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=22C1C3&center=true&vCenter=true&size=20&lines=Desarrollo+Web+Junior;Infraestructura+y+Redes;IoT+y+Sistemas;Aprendiendo+y+Construyendo" />
+</p>
+
+<p align="center">
+  <a href="https://hazaeldev.netlify.app/">
+    <img src="https://img.shields.io/badge/Portafolio-22C1C3?style=for-the-badge&logo=googlechrome&logoColor=white">
+  </a>
+  <a href="https://www.linkedin.com/in/haza-hernandez-855270253/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="mailto:hazaeldev14@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
 </p>
 
 <p align="center">
@@ -31,49 +51,41 @@ Actualmente busco una **oportunidad Junior o de prácticas profesionales** donde
 
 ## Tecnologías y conocimientos
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=php,laravel,mysql,tailwindcss,moodle,linux,docker,git,github,vscode" />
-</p>
-
 ### Desarrollo Web
 
-- PHP
-- Laravel
-- Blade
-- Tailwind CSS
-- APIs REST
+<p>
+  <img src="https://skillicons.dev/icons?i=php,laravel,html,css,js,tailwind" />
+</p>
+
+`PHP` `Laravel` `Blade` `HTML` `CSS` `JavaScript` `Tailwind CSS` `APIs REST`
 
 ### Bases de Datos
 
-- MySQL
-- MariaDB
-- SQL
-- Modelado relacional
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql" />
+</p>
+
+`MySQL` `MariaDB` `SQL` `Modelado relacional`
 
 ### Infraestructura y Sistemas
 
-- Linux
-- Docker
-- Moodle
-- VMware
-- XAMPP
+<p>
+  <img src="https://skillicons.dev/icons?i=linux,docker,git,github" />
+</p>
+
+`Linux` `Docker` `Moodle` `VMware` `VirtualBox` `XAMPP`
 
 ### Redes
 
-- TCP/IP
-- DNS
-- DHCP
-- VLAN
-- ACL
+`TCP/IP` `DNS` `DHCP` `VLAN` `802.1Q` `Trunking` `Routing` `ACL` `GNS3`
 
 ### IoT y Hardware
 
-- ESP32
-- MQ-2
-- MQ-135
-- DHT11
-- Flutter
-- Integración Hardware-Software
+<p>
+  <img src="https://skillicons.dev/icons?i=arduino,cpp,flutter" />
+</p>
+
+`ESP32` `MQ-2` `MQ-135` `DHT11` `MQTT` `Flutter`
 
 ---
 
@@ -85,15 +97,16 @@ Prototipo IoT desarrollado con ESP32 para monitorear gases y condiciones ambient
 
 **Tecnologías:**
 
-`ESP32` `MQ-2` `MQ-135` `DHT11` `MQTT` `Flutter` `C++` 
+`ESP32` `C++` `MQ-2` `MQ-135` `DHT11` `MQTT` `Flutter`
 
 **Lo que trabajé:**
 
 - Integración de sensores con ESP32.
 - Lectura y procesamiento de datos.
 - Sistema de alertas mediante LEDs, buzzer y ventilador.
-- Aplicación móvil Flutter con dashboard en tiempo real y gráficos históricos
-- Comunicación MQTT mediante broker local para envío y recepción de datos
+- Aplicación móvil desarrollada con Flutter.
+- Comunicación mediante MQTT.
+- Visualización de lecturas y datos históricos.
 
 [Ver proyecto →](https://drive.google.com/file/d/18JYspkrySRNL8jnRZEGnF08HjQRhvTRW/view?usp=sharing)
 
@@ -105,7 +118,7 @@ Portal desarrollado para la **Universidad Politécnica del Valle de Toluca** dur
 
 **Tecnologías:**
 
-`Laravel` `PHP` `MySQL` `Blade`
+`Laravel 12` `PHP` `MySQL` `Blade` `Git`
 
 **Lo que trabajé:**
 
@@ -116,7 +129,7 @@ Portal desarrollado para la **Universidad Politécnica del Valle de Toluca** dur
 - Pruebas y correcciones funcionales.
 - Implementación en entorno de producción.
 
-[Ver proyecto →]([TU_LINK](https://itinews-upvt.com.mx/)
+[Visitar sitio →](https://itinews-upvt.com.mx/)
 
 ---
 
@@ -143,7 +156,7 @@ Implementación de un curso propedéutico autogestivo para estudiantes de nuevo 
 
 ### K-Hamburguesas — Sistema Web para Restaurante
 
-Sistema web desarrollado para apoyar la gestión de un restaurante.
+Sistema web desarrollado como proyecto personal para apoyar la gestión de un restaurante.
 
 **Tecnologías:**
 
@@ -152,13 +165,13 @@ Sistema web desarrollado para apoyar la gestión de un restaurante.
 **Lo que trabajé:**
 
 - Desarrollo de la aplicación con Laravel.
-- Módulos operativos especializados para Cliente, Mesero, Cocina, Repartidor, Caja y Administrador.
-- Sistema completamente internacionalizado para Español, Inglés y Portugués Brasileño.
-- Panel de control con indicadores clave, gráficas, historial de transacciones y exportación de reportes en PDF y Excel.
-- Seguridad con control de accesos basado en roles y reglas de protección de datos ante la eliminación de productos o usuarios.
-- Diseño de base de datos relacional en MySQL.
+- Implementación de módulos para diferentes áreas del restaurante.
+- Gestión de menú y categorías.
+- Registro y seguimiento de órdenes.
+- Diseño de base de datos relacional.
+- Implementación de control de acceso mediante roles.
 
-[Ver proyecto →](https://k-hamburguesas.whf.bz/)
+[Visitar proyecto →](https://k-hamburguesas.whf.bz/)
 
 ---
 
@@ -198,21 +211,47 @@ Como parte de mi desarrollo profesional, busco seguir fortaleciendo mis conocimi
 - Docker y despliegue
 - Redes e infraestructura
 - Seguridad de aplicaciones
-- Integración de sistemas
 - Ciberseguridad
+- Integración de sistemas
 
 ---
 
-<p align="center"> <img height="160" src="https://github-readme-stats.vercel.app/api?username=HazaelH&show_icons=true&theme=tokyonight&hide_border=true" /> <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HazaelH&layout=compact&theme=tokyonight&hide_border=true" /> </p> <p align="center"> <img src="https://streak-stats.demolab.com?user=HazaelH&theme=tokyonight&hide_border=true" /> </p>
+## GitHub
+
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=HazaelH&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HazaelH&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=HazaelH&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
-Contacto
-GitHub: https://github.com/HazaelH
-Email: hazaeldev14@gmail.com
-LinkedIn: TU_LINKEDIN
-Portafolio: TU_PORTAFOLIO
+## Contacto
+
+<p align="center">
+  <a href="https://github.com/HazaelH">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+  <a href="https://www.linkedin.com/in/haza-hernandez-855270253/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="https://hazaeldev.netlify.app/">
+    <img src="https://img.shields.io/badge/Portafolio-22C1C3?style=for-the-badge&logo=googlechrome&logoColor=white">
+  </a>
+  <a href="mailto:hazaeldev14@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+</p>
+
+<p align="center">
+  <em>Construyendo proyectos, aprendiendo tecnologías y desarrollándome en TI.</em>
+</p>
 
 ---
 
-<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:22c1c3&height=100&section=footer"/> </p> ```
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:22c1c3&height=100&section=footer"/>
+</p>
